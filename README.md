@@ -1,8 +1,8 @@
 # Coursera-IBM-Data-Science
 Coursera IBM Data Science Course Repo
 
-#testreop
+# testrepo
 
 ## Editing this file
 
-Its a markdown file in this repository.
+It's a markdown file in this repository.
